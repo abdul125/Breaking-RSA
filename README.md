@@ -1,2 +1,2 @@
 # Breaking-RSA
-Breaking RSA algorithm
+breaking RSA encryption algorithm
